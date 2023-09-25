@@ -1,0 +1,455 @@
+{
+  "sections": {
+    "d2c208a5-7f41-495c-a0f3-51af4fd43a7e": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/2_94f2c5e2-163f-46a8-92b5-eabfe4d73491.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "2017a3bf-2376-446f-94b8-496e0c3b0aba": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19478613229910__2017a3bf-2376-446f-94b8-496e0c3b0aba-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Bus Rental France MBS87<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "template--19478613229910__2017a3bf-2376-446f-94b8-496e0c3b0aba-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>We are MBS 87  bus rental services company based in Paris and our buses run all over Europe. We are MINIBUS AND COACH HIRE IN FRANCE.<\/strong><\/p><p><strong>Sit back and relax, with our Coach Hire service, we will take you on a voyage of discovery in France and all around Europe.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19478613229910__2017a3bf-2376-446f-94b8-496e0c3b0aba-heading-1",
+        "template--19478613229910__2017a3bf-2376-446f-94b8-496e0c3b0aba-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-d6a04b15-6abe-4e34-b171-64b547c1d2c4",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "85377653-ba6d-4665-94a8-a82e14b4d34c": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19478613229910__85377653-ba6d-4665-94a8-a82e14b4d34c-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Our chauffeurs are experienced drivers that will guarantee your safety, and our modern buses are reliable and well-furnished to maximum comfort . Book your bus rental with us today and tour around France in comfort and safety.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19478613229910__85377653-ba6d-4665-94a8-a82e14b4d34c-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>We offer sedans hire , minibus hire , and coach hire services with Professional Drivers \/Chauffeurs in Paris France<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19478613229910__85377653-ba6d-4665-94a8-a82e14b4d34c-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Tourists wishing to visit Paris can absolutely use our services. However, renting a coach with driver greatly simplifies situations for group outings<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "25c3b789-471c-47fe-bc27-ae9baae8d6c2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Pre-book your Coach \/ Minibus up to 50% cheaper. Our MBS coach\/minibus competes to send you th best rates<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19478613229910__85377653-ba6d-4665-94a8-a82e14b4d34c-column-1",
+        "template--19478613229910__85377653-ba6d-4665-94a8-a82e14b4d34c-column-2",
+        "template--19478613229910__85377653-ba6d-4665-94a8-a82e14b4d34c-column-3",
+        "25c3b789-471c-47fe-bc27-ae9baae8d6c2"
+      ],
+      "settings": {
+        "title": "The Benefits of Hiring a Bus in France",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "c78c9a95-9859-46e4-a59d-c3b88d7a48c1": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19478613229910__c78c9a95-9859-46e4-a59d-c3b88d7a48c1-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_d9cb41b5-fd19-46c4-b1d5-e4949689c04f.png",
+            "title": "Mercedes E Class",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19478613229910__c78c9a95-9859-46e4-a59d-c3b88d7a48c1-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_10f2a448-4d7f-4dcc-8109-c8e39c25c9fb.png",
+            "title": "<strong>Mercedes V Class<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19478613229910__c78c9a95-9859-46e4-a59d-c3b88d7a48c1-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_bca64029-345d-406b-acc9-9f1a00a674be.png",
+            "title": "<strong>Mercedes S Class<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "7382839b-b6dd-4279-b924-0a57813ea487": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_293e8e93-da44-476f-8410-d435cea233ae.png",
+            "title": "<strong>Tesla Model S<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1c0b4c98-918c-48e3-b038-82a387076403": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.png",
+            "title": "Mercedes Sprinter",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0f32075f-4318-4d08-aa0e-e0defb30649b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6_beb3685f-fa60-4f2a-bb99-e9b70b3fc7ce.png",
+            "title": "Mercedes Bus",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19478613229910__c78c9a95-9859-46e4-a59d-c3b88d7a48c1-column-1",
+        "template--19478613229910__c78c9a95-9859-46e4-a59d-c3b88d7a48c1-column-2",
+        "template--19478613229910__c78c9a95-9859-46e4-a59d-c3b88d7a48c1-column-3",
+        "7382839b-b6dd-4279-b924-0a57813ea487",
+        "1c0b4c98-918c-48e3-b038-82a387076403",
+        "0f32075f-4318-4d08-aa0e-e0defb30649b"
+      ],
+      "settings": {
+        "title": "<strong>Offer buses with All sizes<\/strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1c3a93dc-ce3f-4987-8e11-9677535c18c6": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19478613229910__1c3a93dc-ce3f-4987-8e11-9677535c18c6-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Bus rental in Lyon",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "abdba3f5-bd57-4678-9bda-f0699e3972cc": {
+          "type": "column",
+          "settings": {
+            "title": "Bus rental in Nice",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4325f162-3d1f-4e01-b7ba-710e256a3507": {
+          "type": "column",
+          "settings": {
+            "title": "Bus rental in Marseille",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "fdb89a77-359c-4e14-aa95-ef86cb155178": {
+          "type": "column",
+          "settings": {
+            "title": "Bus rental in Monaco",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "06004e63-81b6-4176-81af-37138aeba26f": {
+          "type": "column",
+          "settings": {
+            "title": "Bus rental in Annecy",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "6d8bca46-da87-4081-945e-cb3b921ec90f": {
+          "type": "column",
+          "settings": {
+            "title": "Bus rental in Bordeaux",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e330bd9e-a353-4874-a99e-dd3ed876d233": {
+          "type": "column",
+          "settings": {
+            "title": "Bus rental in Redon",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "03d22013-a0b5-482b-8b6b-d25e4dc4a2b3": {
+          "type": "column",
+          "settings": {
+            "title": "Bus rental in Aix en Provence",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d6ceb861-7f2a-4f7c-8621-f15e7ef6401b": {
+          "type": "column",
+          "settings": {
+            "title": "Day tour from Paris",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "3e3f7408-2a9b-4219-bae9-85ec1976620f": {
+          "type": "column",
+          "settings": {
+            "title": "Loire Castle Tour From Paris",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "7dec5bf5-e8a3-4e54-837d-f3a77155af44": {
+          "type": "column",
+          "settings": {
+            "title": "Mont St Michel Tour From Paris",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1025522b-44dd-41fd-b799-81c3ef924eb8": {
+          "type": "column",
+          "settings": {
+            "title": "Reims Champagne Tour From Paris",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d258b3ef-198a-4a34-b88d-eafed121b7f9": {
+          "type": "column",
+          "settings": {
+            "title": "Bruges Tour From Paris",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "92a296a7-14da-4ac4-aebf-2da752db7f1a": {
+          "type": "column",
+          "settings": {
+            "title": "Fontainebleau Tour From Paris",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "443db922-4320-4b90-83b1-891455b8bdfc": {
+          "type": "column",
+          "settings": {
+            "title": "Bus rental in Strasbourgh",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4b78633a-c48a-40d8-91a9-5554c4360b16": {
+          "type": "column",
+          "settings": {
+            "title": "Bus rental in Annecy",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19478613229910__1c3a93dc-ce3f-4987-8e11-9677535c18c6-column-1",
+        "abdba3f5-bd57-4678-9bda-f0699e3972cc",
+        "4325f162-3d1f-4e01-b7ba-710e256a3507",
+        "fdb89a77-359c-4e14-aa95-ef86cb155178",
+        "06004e63-81b6-4176-81af-37138aeba26f",
+        "6d8bca46-da87-4081-945e-cb3b921ec90f",
+        "e330bd9e-a353-4874-a99e-dd3ed876d233",
+        "03d22013-a0b5-482b-8b6b-d25e4dc4a2b3",
+        "d6ceb861-7f2a-4f7c-8621-f15e7ef6401b",
+        "3e3f7408-2a9b-4219-bae9-85ec1976620f",
+        "7dec5bf5-e8a3-4e54-837d-f3a77155af44",
+        "1025522b-44dd-41fd-b799-81c3ef924eb8",
+        "d258b3ef-198a-4a34-b88d-eafed121b7f9",
+        "92a296a7-14da-4ac4-aebf-2da752db7f1a",
+        "443db922-4320-4b90-83b1-891455b8bdfc",
+        "4b78633a-c48a-40d8-91a9-5554c4360b16"
+      ],
+      "settings": {
+        "title": "<strong>French cities where we operate & Read more Tour Guideline Blog<\/strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 8,
+        "padding_bottom": 4
+      }
+    },
+    "0e358aed-e939-4c15-b5c9-ace52b92eb9b": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19478613229910__0e358aed-e939-4c15-b5c9-ace52b92eb9b-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Sarah",
+            "text": "<p>Booked buses' reservations for the WYD 2023 in Lisbon. Even during the high season, they were professional, on time and helpful. Recommended. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19478613229910__0e358aed-e939-4c15-b5c9-ace52b92eb9b-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Micheal",
+            "text": "<p>This coach bus company took us on an incredible journey across Norway, Sweden, and Denmark. The driver was not only highly skilled but also a fantastic tour guide, providing us with all kinds of facts about the places we visited. Besides, the vehicle was comfortable and quiet. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19478613229910__0e358aed-e939-4c15-b5c9-ace52b92eb9b-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "Rose",
+            "text": "<p>Business trip from Paris to Nice<\/p><p>Wonderful company! Thank you very much for the great experience, prompt responses, care, and willingness to help! <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19478613229910__0e358aed-e939-4c15-b5c9-ace52b92eb9b-column-1",
+        "template--19478613229910__0e358aed-e939-4c15-b5c9-ace52b92eb9b-column-2",
+        "template--19478613229910__0e358aed-e939-4c15-b5c9-ace52b92eb9b-column-3"
+      ],
+      "settings": {
+        "title": "<strong>Rating & Reviews<\/strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-d6a04b15-6abe-4e34-b171-64b547c1d2c4",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "d2c208a5-7f41-495c-a0f3-51af4fd43a7e",
+    "main",
+    "2017a3bf-2376-446f-94b8-496e0c3b0aba",
+    "85377653-ba6d-4665-94a8-a82e14b4d34c",
+    "c78c9a95-9859-46e4-a59d-c3b88d7a48c1",
+    "1c3a93dc-ce3f-4987-8e11-9677535c18c6",
+    "0e358aed-e939-4c15-b5c9-ace52b92eb9b"
+  ]
+}

@@ -1,0 +1,554 @@
+{
+  "sections": {
+    "4d8e266b-6746-4611-a583-08e7757e31aa": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/3_1.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "f623b214-32ec-4b21-ae68-3a1e36962c5a": {
+      "type": "rich-text",
+      "blocks": {
+        "140d017e-5987-41f1-9b7a-b415f9850870": {
+          "type": "heading",
+          "settings": {
+            "heading": "BUS RENTAL WITH THE BEST BELIEF IN PARIS",
+            "heading_size": "h1"
+          }
+        },
+        "91f15f00-4f6d-442e-b365-c40dd430366b": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>MBS 87 Business & Travel is, our quotation includes vehicle, driver, insurance and all vehicle operating costs, hotel expenses, and also those interested in other fun places. MBS 87 also allows you to go wherever you want, whenever you want safely and reliably with local guides, local drivers, and local knowledge of the place, area, and event.<\/strong><\/p>"
+          }
+        },
+        "6436e504-4453-4a81-9836-2c4ee354ac68": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "140d017e-5987-41f1-9b7a-b415f9850870",
+        "91f15f00-4f6d-442e-b365-c40dd430366b",
+        "6436e504-4453-4a81-9836-2c4ee354ac68"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "scheme-d6a04b15-6abe-4e34-b171-64b547c1d2c4",
+        "full_width": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4dfec6e2-77c9-4516-ade4-d63f4ea81daa": {
+      "type": "rich-text",
+      "blocks": {
+        "d774ee7c-f599-430c-bb94-9ed3ab739c4b": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Why booking your coach with us<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "a67c2b45-d904-4bd3-bb89-20940ccde234": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our extensive experience enables us to offer you an estimate in a timely manner. Whether you are traveling for business or pleasure, we can locate the most suitable routes and timetables to meet your transportation requirements. We guarantee prompt and high-quality service.<\/p>"
+          }
+        },
+        "70ec68a2-2d77-42f0-8a54-d8fb5b06ee9c": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "d774ee7c-f599-430c-bb94-9ed3ab739c4b",
+        "a67c2b45-d904-4bd3-bb89-20940ccde234",
+        "70ec68a2-2d77-42f0-8a54-d8fb5b06ee9c"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "070d794b-d519-4ce2-a96d-a3bf0792dad8": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19478628565334__070d794b-d519-4ce2-a96d-a3bf0792dad8-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "BUS TRAVEL",
+            "text": "<p>We offer more than <strong>500-1000 private buses<\/strong> in our list.<\/p><p>All vehicles are fully registered as per<strong> state regulations<\/strong> and <strong>regularly serviced, cleaned, and checked frequently<\/strong>.<\/p><p>We have personal vehicles<strong> available for events<\/strong> such as weddings, honeymoons, meetings, or extensive corporate trips.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19478628565334__070d794b-d519-4ce2-a96d-a3bf0792dad8-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "DRIVER",
+            "text": "<p>Our best advantage is the <strong>headquarter in Paris<\/strong> which ensures our drivers<strong> understand every nook and cranny<\/strong>, the route here helps you have a pleasant journey.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19478628565334__070d794b-d519-4ce2-a96d-a3bf0792dad8-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "LOCATIONS",
+            "text": "<p>From the headquarters in<strong> 60 rue François 1er - 75008 Paris<\/strong>, MBS 87 is organizing your Parisian bus tour with <strong>widespread sites around the world.<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "f3812945-a714-4577-b2c5-114f7c2e6eec": {
+          "type": "column",
+          "settings": {
+            "title": "PRICE",
+            "text": "<p>Our prices are<strong> the best SALE<\/strong> you can find, there will not be a cheaper place like that and still keep the original services and utilities like MBS 87<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19478628565334__070d794b-d519-4ce2-a96d-a3bf0792dad8-column-1",
+        "template--19478628565334__070d794b-d519-4ce2-a96d-a3bf0792dad8-column-2",
+        "template--19478628565334__070d794b-d519-4ce2-a96d-a3bf0792dad8-column-3",
+        "f3812945-a714-4577-b2c5-114f7c2e6eec"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "1333b54f-6422-4165-b5db-ddba6f53bde0": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19478628565334__1333b54f-6422-4165-b5db-ddba6f53bde0-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our fleet: MBS 87 has enough multi-format of the car size from S to XL.",
+            "heading_size": "h1"
+          }
+        },
+        "template--19478628565334__1333b54f-6422-4165-b5db-ddba6f53bde0-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>We have a wide range of the latest vehicles to capture the market of buses, coaches, and minibusses to ensure full facilities for customers as well as meet the needs and entertainment tools on the car so that customers have a good experience. most wonderful experience. Here are some of our newest models:<\/strong><\/p>"
+          }
+        },
+        "template--19478628565334__1333b54f-6422-4165-b5db-ddba6f53bde0-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19478628565334__1333b54f-6422-4165-b5db-ddba6f53bde0-heading-1",
+        "template--19478628565334__1333b54f-6422-4165-b5db-ddba6f53bde0-text-1",
+        "template--19478628565334__1333b54f-6422-4165-b5db-ddba6f53bde0-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "scheme-d6a04b15-6abe-4e34-b171-64b547c1d2c4",
+        "full_width": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "5926739f-c6ca-49c1-b147-1354156a19e1": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19481861292374__5926739f-c6ca-49c1-b147-1354156a19e1-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/xe8_0f594475-f82b-44b3-93f3-b2ed0199ebc8.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19481861292374__5926739f-c6ca-49c1-b147-1354156a19e1-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/xe10_61e50f98-c20c-4309-85f6-f1b8e67aa1f8.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19481861292374__5926739f-c6ca-49c1-b147-1354156a19e1-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/xe11_6581b02c-eff0-47fb-b517-ca6fa02f8dfc.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "32f7d83b-24ea-4e1e-bebc-f181a1e44b6f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/xe14_cda8bf5b-6e83-48a7-8a34-2265a34302cc.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "625c2c6d-2702-4536-ad27-479310b4175e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kh14.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "155806dd-bff1-410a-872d-b3bb1b396be0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/xe_15_b97e95f0-1693-4357-af6b-98f14609f1e7.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "6b36b0c9-144b-441e-9aa2-48d0f8d461c7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kh15_4cbd2018-874a-4a46-a3fa-e4724ee49296.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19481861292374__5926739f-c6ca-49c1-b147-1354156a19e1-column-1",
+        "template--19481861292374__5926739f-c6ca-49c1-b147-1354156a19e1-column-2",
+        "template--19481861292374__5926739f-c6ca-49c1-b147-1354156a19e1-column-3",
+        "32f7d83b-24ea-4e1e-bebc-f181a1e44b6f",
+        "625c2c6d-2702-4536-ad27-479310b4175e",
+        "155806dd-bff1-410a-872d-b3bb1b396be0",
+        "6b36b0c9-144b-441e-9aa2-48d0f8d461c7"
+      ],
+      "settings": {
+        "title": "<strong>Offer buses with All sizes<\/strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "0a4dc05c-9c57-4e38-a9d4-017b003ea5a0": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19478628565334__0a4dc05c-9c57-4e38-a9d4-017b003ea5a0-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Bus rental for the Eiffel Tower<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19478628565334__0a4dc05c-9c57-4e38-a9d4-017b003ea5a0-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Bus rental for Opera House Garnier<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19478628565334__0a4dc05c-9c57-4e38-a9d4-017b003ea5a0-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Bus rental for Rodin Museum<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "29b0918e-5625-42e7-9f0a-63112a2d13d1": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Bus rental for Louvre Museum<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a3e3633b-942b-4721-8507-376897b6040d": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Bus rental for Sainte-Chapelle<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "5140916a-baf3-4ed5-adff-2810175546ac": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Bus rental for the Museum of Orangerie<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d087a1e7-ad49-4d67-964b-1eae042641a3": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Bus rental for Arc de Triomphe<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a1e1147a-74d8-4b2f-9d72-28d7e7f5a0b6": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Bus rental for Luxembourg Gardens<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "7384a6fc-deed-44d2-abd0-485402e04a7c": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Bus rental for Versailles Castle<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "fed463cf-46ba-473c-8f09-d005785d0e05": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Bus rental for Notre Dame Cathedral in Paris<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "90a661be-5f53-496e-9855-307713e10976": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Bus rental for Center Georges-Pompidou<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b5edbe9d-618f-413a-a2e2-382fe39e55d5": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Bus rental for Concorde Square<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "773905fa-00cb-490a-b650-98fe107bd8f5": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Bus rental for Orsay Museum<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "00373cc0-bb1f-4116-8475-05e0af31e37c": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Bus rental for Tuileries Garden<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "54abd5e8-ea3f-436f-899d-054d296a8dc0": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Bus rental for Alexander Bridge-III<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19478628565334__0a4dc05c-9c57-4e38-a9d4-017b003ea5a0-column-1",
+        "template--19478628565334__0a4dc05c-9c57-4e38-a9d4-017b003ea5a0-column-2",
+        "template--19478628565334__0a4dc05c-9c57-4e38-a9d4-017b003ea5a0-column-3",
+        "29b0918e-5625-42e7-9f0a-63112a2d13d1",
+        "a3e3633b-942b-4721-8507-376897b6040d",
+        "5140916a-baf3-4ed5-adff-2810175546ac",
+        "d087a1e7-ad49-4d67-964b-1eae042641a3",
+        "a1e1147a-74d8-4b2f-9d72-28d7e7f5a0b6",
+        "7384a6fc-deed-44d2-abd0-485402e04a7c",
+        "fed463cf-46ba-473c-8f09-d005785d0e05",
+        "90a661be-5f53-496e-9855-307713e10976",
+        "b5edbe9d-618f-413a-a2e2-382fe39e55d5",
+        "773905fa-00cb-490a-b650-98fe107bd8f5",
+        "00373cc0-bb1f-4116-8475-05e0af31e37c",
+        "54abd5e8-ea3f-436f-899d-054d296a8dc0"
+      ],
+      "settings": {
+        "title": "Some Parisian cities we are running each day.",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "5f95224e-0926-4e6e-bbcc-739dc1377f59": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19478628565334__5f95224e-0926-4e6e-bbcc-739dc1377f59-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Nancy_Canada<\/strong>",
+            "text": "<p>MBS 87 Business & Travel is<\/p><p>, our quotation includes vehicle, driver, insurance and all vehicle operating costs, hotel expenses, and also those interested in other fun places. MBS 87 also allows you to go wherever you want, whenever you want safely and reliably with local guides, local drivers, and local knowledge of the place, area, and event.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19478628565334__5f95224e-0926-4e6e-bbcc-739dc1377f59-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Uzumaki Aki_Japaneses Love Paris<\/strong>",
+            "text": "<p>I'm going to Paris for the first time so don't know much information here. Fortunately, thanks to (Alphia) the tour guide of the company who thoroughly explained to us about many tourist attractions as well as MBS 87, allowing us to taste many specialties in France.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19478628565334__5f95224e-0926-4e6e-bbcc-739dc1377f59-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Budapest<\/strong>",
+            "text": "<p>The enthusiasm of the consultants, especially (Amelia) helped me solve the flight cancellation due to work problems into a new flight.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19478628565334__5f95224e-0926-4e6e-bbcc-739dc1377f59-column-1",
+        "template--19478628565334__5f95224e-0926-4e6e-bbcc-739dc1377f59-column-2",
+        "template--19478628565334__5f95224e-0926-4e6e-bbcc-739dc1377f59-column-3"
+      ],
+      "settings": {
+        "title": "What clients say:",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "4d8e266b-6746-4611-a583-08e7757e31aa",
+    "f623b214-32ec-4b21-ae68-3a1e36962c5a",
+    "4dfec6e2-77c9-4516-ade4-d63f4ea81daa",
+    "070d794b-d519-4ce2-a96d-a3bf0792dad8",
+    "main",
+    "1333b54f-6422-4165-b5db-ddba6f53bde0",
+    "5926739f-c6ca-49c1-b147-1354156a19e1",
+    "0a4dc05c-9c57-4e38-a9d4-017b003ea5a0",
+    "5f95224e-0926-4e6e-bbcc-739dc1377f59"
+  ]
+}

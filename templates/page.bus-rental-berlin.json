@@ -1,0 +1,420 @@
+{
+  "sections": {
+    "4d8e266b-6746-4611-a583-08e7757e31aa": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/3_8e655ebb-bc38-4eaf-9be7-3ba0056e666a.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1333b54f-6422-4165-b5db-ddba6f53bde0": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19478628565334__1333b54f-6422-4165-b5db-ddba6f53bde0-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Bus Rental Berlin MBS 87<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "template--19478628565334__1333b54f-6422-4165-b5db-ddba6f53bde0-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Bus rental services company with over a decade of experience<\/strong><\/p><p><strong>MBS87 is a bus company that has been providing bus rental services in Berlin for over 10 years. We are trusted by thousands of passengers and organizations from around the world. We make group travel simple and affordable. <\/strong><\/p><p><strong>We offer bus, minibus and van rental in Berlin with driver and private transfer services. We are constantly expanding our services to provide excellent bus rental and transfers all over Germany and Europe.<\/strong><\/p><p><strong>Whether you need to rent a bus in Berlin for a small group or a large group, MBS87 has the perfect solution for you. Request a FREE quote today!<\/strong><\/p>"
+          }
+        },
+        "template--19478628565334__1333b54f-6422-4165-b5db-ddba6f53bde0-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19478628565334__1333b54f-6422-4165-b5db-ddba6f53bde0-heading-1",
+        "template--19478628565334__1333b54f-6422-4165-b5db-ddba6f53bde0-text-1",
+        "template--19478628565334__1333b54f-6422-4165-b5db-ddba6f53bde0-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "scheme-d6a04b15-6abe-4e34-b171-64b547c1d2c4",
+        "full_width": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4dfec6e2-77c9-4516-ade4-d63f4ea81daa": {
+      "type": "rich-text",
+      "blocks": {
+        "d774ee7c-f599-430c-bb94-9ed3ab739c4b": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Why booking your coach with us<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "a67c2b45-d904-4bd3-bb89-20940ccde234": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our extensive experience enables us to offer you an estimate in a timely manner. Whether you are traveling for business or pleasure, we can locate the most suitable routes and timetables to meet your transportation requirements. We guarantee prompt and high-quality service.<\/p>"
+          }
+        },
+        "70ec68a2-2d77-42f0-8a54-d8fb5b06ee9c": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "d774ee7c-f599-430c-bb94-9ed3ab739c4b",
+        "a67c2b45-d904-4bd3-bb89-20940ccde234",
+        "70ec68a2-2d77-42f0-8a54-d8fb5b06ee9c"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "070d794b-d519-4ce2-a96d-a3bf0792dad8": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19478628565334__070d794b-d519-4ce2-a96d-a3bf0792dad8-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Prompt quotation within 12 hours<\/strong>",
+            "text": "<p>Our MBS 87 Team is available 24\/7 to take care of your travel needs. If you have any questions, please do not hesitate to get in touch with us for a free quote.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19478628565334__070d794b-d519-4ce2-a96d-a3bf0792dad8-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Personalized trip planning<\/strong>",
+            "text": "<p>We handle groups of all ages, from seniors, to business, students, tourists, weddings or family reunions, sporting events and because of our strong relationship with suppliers, we provide fast response times and competitive rates.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19478628565334__070d794b-d519-4ce2-a96d-a3bf0792dad8-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Best market prices<\/strong>",
+            "text": "<p>MBS 87 provides a one-time travel contact and an initial commission. There is no need to be concerned about exchange rates, as our rates are exclusively quoted in Euro.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "f3812945-a714-4577-b2c5-114f7c2e6eec": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Deliver valuable and authentic local insights<\/strong>",
+            "text": "<p>We've got suppliers all over Europe, so we can give you the in-depth, local knowledge you need to stay on top of the latest travel trends and make sure you're getting the most out of your trips.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19478628565334__070d794b-d519-4ce2-a96d-a3bf0792dad8-column-1",
+        "template--19478628565334__070d794b-d519-4ce2-a96d-a3bf0792dad8-column-2",
+        "template--19478628565334__070d794b-d519-4ce2-a96d-a3bf0792dad8-column-3",
+        "f3812945-a714-4577-b2c5-114f7c2e6eec"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "5926739f-c6ca-49c1-b147-1354156a19e1": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19481861292374__5926739f-c6ca-49c1-b147-1354156a19e1-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_d9cb41b5-fd19-46c4-b1d5-e4949689c04f.png",
+            "title": "Mercedes E Class",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "8003263a-7e24-4093-9b30-af49f53eaac4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_10f2a448-4d7f-4dcc-8109-c8e39c25c9fb.png",
+            "title": "<strong>Mercedes V Class<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "472ee802-df08-4229-8367-9d7a760cc154": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_bca64029-345d-406b-acc9-9f1a00a674be.png",
+            "title": "<strong>Mercedes S Class<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19481861292374__5926739f-c6ca-49c1-b147-1354156a19e1-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_293e8e93-da44-476f-8410-d435cea233ae.png",
+            "title": "<strong>Tesla Model S<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19481861292374__5926739f-c6ca-49c1-b147-1354156a19e1-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.png",
+            "title": "Mercedes Sprinter",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "625c2c6d-2702-4536-ad27-479310b4175e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6_beb3685f-fa60-4f2a-bb99-e9b70b3fc7ce.png",
+            "title": "Mercedes Bus",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19481861292374__5926739f-c6ca-49c1-b147-1354156a19e1-column-1",
+        "8003263a-7e24-4093-9b30-af49f53eaac4",
+        "472ee802-df08-4229-8367-9d7a760cc154",
+        "template--19481861292374__5926739f-c6ca-49c1-b147-1354156a19e1-column-2",
+        "template--19481861292374__5926739f-c6ca-49c1-b147-1354156a19e1-column-3",
+        "625c2c6d-2702-4536-ad27-479310b4175e"
+      ],
+      "settings": {
+        "title": "<strong>Offer buses with All sizes<\/strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0a4dc05c-9c57-4e38-a9d4-017b003ea5a0": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19478628565334__0a4dc05c-9c57-4e38-a9d4-017b003ea5a0-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Brandenburg Gate",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19478628565334__0a4dc05c-9c57-4e38-a9d4-017b003ea5a0-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Holocaust Memorial",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19478628565334__0a4dc05c-9c57-4e38-a9d4-017b003ea5a0-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "Spandau . Citadel",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "29b0918e-5625-42e7-9f0a-63112a2d13d1": {
+          "type": "column",
+          "settings": {
+            "title": "Berlin TV Tower",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a3e3633b-942b-4721-8507-376897b6040d": {
+          "type": "column",
+          "settings": {
+            "title": "Gendarmenmarkt",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "5140916a-baf3-4ed5-adff-2810175546ac": {
+          "type": "column",
+          "settings": {
+            "title": "Potsdamer Platz",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d087a1e7-ad49-4d67-964b-1eae042641a3": {
+          "type": "column",
+          "settings": {
+            "title": "Kreuzberg",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19478628565334__0a4dc05c-9c57-4e38-a9d4-017b003ea5a0-column-1",
+        "template--19478628565334__0a4dc05c-9c57-4e38-a9d4-017b003ea5a0-column-2",
+        "template--19478628565334__0a4dc05c-9c57-4e38-a9d4-017b003ea5a0-column-3",
+        "29b0918e-5625-42e7-9f0a-63112a2d13d1",
+        "a3e3633b-942b-4721-8507-376897b6040d",
+        "5140916a-baf3-4ed5-adff-2810175546ac",
+        "d087a1e7-ad49-4d67-964b-1eae042641a3"
+      ],
+      "settings": {
+        "title": "<strong>Berlin attractive place where we operate & Read more Tour Guideline Blog<\/strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "5f95224e-0926-4e6e-bbcc-739dc1377f59": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19478628565334__5f95224e-0926-4e6e-bbcc-739dc1377f59-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Sambaiah Jillellamudi",
+            "text": "<p>It’s great experience with MBS travel.<\/p><p>We are total 21 people with kids and booked bus for 7 days. We started our journey from Switzerland -&gt; France -&gt; Belgium -&gt; Netherlands.<\/p><p>The cooperation of driver and MBS travel agent is exceptional. If we want travel again we love to choose MBS service again<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19478628565334__5f95224e-0926-4e6e-bbcc-739dc1377f59-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Annie Roberts",
+            "text": "<p>Professional services, Nice staff, Quick reply, Great support. I booked many groups with this company. Excellent experience.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19478628565334__5f95224e-0926-4e6e-bbcc-739dc1377f59-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "Amadin Jessie",
+            "text": "<p>Very interesting tour organization, enthusiastic service, quick and reputable email reply. I have worked with the company for a long time and am very happy about it<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19478628565334__5f95224e-0926-4e6e-bbcc-739dc1377f59-column-1",
+        "template--19478628565334__5f95224e-0926-4e6e-bbcc-739dc1377f59-column-2",
+        "template--19478628565334__5f95224e-0926-4e6e-bbcc-739dc1377f59-column-3"
+      ],
+      "settings": {
+        "title": "What clients say:",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "4d8e266b-6746-4611-a583-08e7757e31aa",
+    "1333b54f-6422-4165-b5db-ddba6f53bde0",
+    "4dfec6e2-77c9-4516-ade4-d63f4ea81daa",
+    "070d794b-d519-4ce2-a96d-a3bf0792dad8",
+    "main",
+    "5926739f-c6ca-49c1-b147-1354156a19e1",
+    "0a4dc05c-9c57-4e38-a9d4-017b003ea5a0",
+    "5f95224e-0926-4e6e-bbcc-739dc1377f59"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "MBS 87 Business & Travel is a registered travel agency in Paris, France.",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement-bar-0"
+      ],
+      "settings": {
+        "color_scheme": "scheme-d6a04b15-6abe-4e34-b171-64b547c1d2c4",
+        "show_line_separator": true,
+        "show_social": true,
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "enable_country_selector": true,
+        "enable_language_selector": true
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "91575fae-a8c8-4ace-bac0-855664eb528b": {
+          "type": "shopify:\/\/apps\/shopbnb\/blocks\/custom_booking_section\/65113cc9-f2c4-4148-910d-0029b0a97748",
+          "disabled": true,
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "91575fae-a8c8-4ace-bac0-855664eb528b"
+      ],
+      "settings": {
+        "logo_position": "top-center",
+        "menu": "home",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "show_line_separator": false,
+        "color_scheme": "background-1",
+        "menu_color_scheme": "background-1",
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 20,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}

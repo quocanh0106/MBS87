@@ -1,0 +1,364 @@
+{
+  "sections": {
+    "4d8e266b-6746-4611-a583-08e7757e31aa": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1_0f92790c-5925-4c54-9658-1f1aab54ed28.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1333b54f-6422-4165-b5db-ddba6f53bde0": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19478628565334__1333b54f-6422-4165-b5db-ddba6f53bde0-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong> Bus Rental Rome MBS87<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "template--19478628565334__1333b54f-6422-4165-b5db-ddba6f53bde0-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Bus rental services company with over a decade of experience<\/strong><\/p><p><strong>With a decade-long history, MBS87 is a trusted bus rental company in Rome. They offer budget-friendly solutions for group travel, including bus, minibus, and van rentals, as well as chauffeurs and private transfers. Their services are expanding across Italy and Europe. Contact MBS87 for a complimentary quote tailored to your group's needs.<\/strong><\/p>"
+          }
+        },
+        "template--19478628565334__1333b54f-6422-4165-b5db-ddba6f53bde0-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19478628565334__1333b54f-6422-4165-b5db-ddba6f53bde0-heading-1",
+        "template--19478628565334__1333b54f-6422-4165-b5db-ddba6f53bde0-text-1",
+        "template--19478628565334__1333b54f-6422-4165-b5db-ddba6f53bde0-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-d6a04b15-6abe-4e34-b171-64b547c1d2c4",
+        "full_width": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "f5777a78-d17d-4187-8a7b-d377fd9449c4": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/2_71f2d897-0696-4114-b580-fd39bbf5dc61.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "f9713bfa-bc88-4844-ac32-f324dbdc436c": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19599743189334__f9713bfa-bc88-4844-ac32-f324dbdc436c-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Swift quotation within 12 hours<\/strong>",
+            "text": "<p>Our dedicated MBS 87 Team is accessible around the clock, tending to your travel needs. Should you have any inquiries, please feel free to contact us for a complimentary quote.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19599743189334__f9713bfa-bc88-4844-ac32-f324dbdc436c-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Tailored travel planning<\/strong>",
+            "text": "<p>We handle diverse groups: seniors, business travelers, students, tourists, wedding parties, family reunions, and sporting events. We ensure quick responses and competitive pricing.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19599743189334__f9713bfa-bc88-4844-ac32-f324dbdc436c-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Competitive market rates<\/strong>",
+            "text": "<p>MBS87 offers a single point of contact for travel and pricing quoted exclusively in Euros, eliminating currency exchange concerns.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "045daba4-af73-4168-9e10-24f443a728de": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Dispensing valuable and authentic local insights<\/strong>",
+            "text": "<p>With a vast European supplier network, we provide local expertise for up-to-date travel trends, enhancing your travel experiences.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19599743189334__f9713bfa-bc88-4844-ac32-f324dbdc436c-column-1",
+        "template--19599743189334__f9713bfa-bc88-4844-ac32-f324dbdc436c-column-2",
+        "template--19599743189334__f9713bfa-bc88-4844-ac32-f324dbdc436c-column-3",
+        "045daba4-af73-4168-9e10-24f443a728de"
+      ],
+      "settings": {
+        "title": "<strong>Why booking your coach with us?<\/strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "070d794b-d519-4ce2-a96d-a3bf0792dad8": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19478628565334__070d794b-d519-4ce2-a96d-a3bf0792dad8-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_d9cb41b5-fd19-46c4-b1d5-e4949689c04f.png",
+            "title": "Mercedes E Class",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19478628565334__070d794b-d519-4ce2-a96d-a3bf0792dad8-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_10f2a448-4d7f-4dcc-8109-c8e39c25c9fb.png",
+            "title": "<strong>Mercedes V Class<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19478628565334__070d794b-d519-4ce2-a96d-a3bf0792dad8-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_bca64029-345d-406b-acc9-9f1a00a674be.png",
+            "title": "<strong>Mercedes S Class<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "f3812945-a714-4577-b2c5-114f7c2e6eec": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_293e8e93-da44-476f-8410-d435cea233ae.png",
+            "title": "<strong>Tesla Model S<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "18a3ffcd-1fdf-45df-a185-3a2b22cae0e0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.png",
+            "title": "Mercedes Sprinter",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "38c6be85-2c0b-42e8-b705-0815ed9714ce": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6_beb3685f-fa60-4f2a-bb99-e9b70b3fc7ce.png",
+            "title": "Mercedes Bus",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19478628565334__070d794b-d519-4ce2-a96d-a3bf0792dad8-column-1",
+        "template--19478628565334__070d794b-d519-4ce2-a96d-a3bf0792dad8-column-2",
+        "template--19478628565334__070d794b-d519-4ce2-a96d-a3bf0792dad8-column-3",
+        "f3812945-a714-4577-b2c5-114f7c2e6eec",
+        "18a3ffcd-1fdf-45df-a185-3a2b22cae0e0",
+        "38c6be85-2c0b-42e8-b705-0815ed9714ce"
+      ],
+      "settings": {
+        "title": "<strong>Offer buses with All sizes<\/strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "0a4dc05c-9c57-4e38-a9d4-017b003ea5a0": {
+      "type": "multicolumn",
+      "blocks": {
+        "d4a524fc-3e42-4c3a-b3c2-feb83f982159": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Bus rental for Milan<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a3e3633b-942b-4721-8507-376897b6040d": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Bus rental for Venice<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "5140916a-baf3-4ed5-adff-2810175546ac": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Bus rental for Napoli<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d087a1e7-ad49-4d67-964b-1eae042641a3": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Bus rental for <\/strong>L<strong>Pisa<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "d4a524fc-3e42-4c3a-b3c2-feb83f982159",
+        "a3e3633b-942b-4721-8507-376897b6040d",
+        "5140916a-baf3-4ed5-adff-2810175546ac",
+        "d087a1e7-ad49-4d67-964b-1eae042641a3"
+      ],
+      "settings": {
+        "title": "<strong>Italian cities where we operate & read more tour guideline blog<\/strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "5f95224e-0926-4e6e-bbcc-739dc1377f59": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19478628565334__5f95224e-0926-4e6e-bbcc-739dc1377f59-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Rose_Philippine",
+            "text": "<p>Our whole family is really happy to have trusted MBS 87 Business & Travel. The travel service there is very good, we are extremely satisfied from the cost to the customer care of the company. Lauwj chose mbs87 yes, a right decision for me<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "f55512a9-559a-4ce1-b6be-a39d9fff37c6": {
+          "type": "column",
+          "settings": {
+            "title": "Emma_Canada",
+            "text": "<p>I had a very meaningful trip to Rome with the enthusiastic support of MBS 87 Business & Travel . 8 days in Rome was extremely fun, we are very satisfied from the way we recommend places to visit as well as interesting experiences during the trip.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "547faf7a-8856-4b96-8e05-fe86ad642b6c": {
+          "type": "column",
+          "settings": {
+            "title": "Mark_Germany",
+            "text": "<p>We were extremely pleased with our visit to Rome this time. Driver is very enthusiastic. Professional guide funny<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19478628565334__5f95224e-0926-4e6e-bbcc-739dc1377f59-column-1",
+        "f55512a9-559a-4ce1-b6be-a39d9fff37c6",
+        "547faf7a-8856-4b96-8e05-fe86ad642b6c"
+      ],
+      "settings": {
+        "title": "What clients say:",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "4d8e266b-6746-4611-a583-08e7757e31aa",
+    "1333b54f-6422-4165-b5db-ddba6f53bde0",
+    "f5777a78-d17d-4187-8a7b-d377fd9449c4",
+    "f9713bfa-bc88-4844-ac32-f324dbdc436c",
+    "070d794b-d519-4ce2-a96d-a3bf0792dad8",
+    "main",
+    "0a4dc05c-9c57-4e38-a9d4-017b003ea5a0",
+    "5f95224e-0926-4e6e-bbcc-739dc1377f59"
+  ]
+}

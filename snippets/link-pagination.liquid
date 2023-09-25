@@ -1,0 +1,28 @@
+{%- if template contains 'blog' -%}
+  {%- paginate blog.articles by 6 -%}
+    {%- if paginate.previous -%}
+      <link rel="prev" href="{{ paginate.previous.url }}" />
+    {%- endif -%}
+    {%- if paginate.next -%}
+      <link rel="next" href="{{ paginate.next.url }}" />
+    {%- endif -%}
+  {%- endpaginate -%}
+{%- elsif template contains 'collection' -%}
+  {%- paginate collection.products by 12 -%}
+    {%- if paginate.previous -%}
+      <link rel="prev" href="{{ paginate.previous.url }}" />
+    {%- endif -%}
+    {%- if paginate.next -%}
+      <link rel="next" href="{{ paginate.next.url }}" />
+    {%- endif -%}
+  {%- endpaginate -%}
+{%- elsif template contains 'list-collections' -%}
+  {%- paginate collections by 30 -%}
+    {%- if paginate.previous -%}
+      <link rel="prev" href="{{ paginate.previous.url }}" />
+    {%- endif -%}
+    {%- if paginate.next -%}
+      <link rel="next" href="{{ paginate.next.url }}" />
+    {%- endif -%}
+  {%- endpaginate -%}
+{%- endif -%}

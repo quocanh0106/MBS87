@@ -1,0 +1,131 @@
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "83c04471-584c-4080-ad2a-1776445cef92": {
+      "type": "newsletter",
+      "blocks": {
+        "sections--19353968673110__83c04471-584c-4080-ad2a-1776445cef92-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "sections--19353968673110__83c04471-584c-4080-ad2a-1776445cef92-paragraph-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "sections--19353968673110__83c04471-584c-4080-ad2a-1776445cef92-email_form-1": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "sections--19353968673110__83c04471-584c-4080-ad2a-1776445cef92-heading-1",
+        "sections--19353968673110__83c04471-584c-4080-ad2a-1776445cef92-paragraph-1",
+        "sections--19353968673110__83c04471-584c-4080-ad2a-1776445cef92-email_form-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "96b47909-8107-4adc-b543-9894cbd5714b": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "email-form": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "email-form"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 72
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "4cfb5ec1-d258-433e-8acd-0dea7326dd2c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MBS_87_Business_Travel_5.png",
+            "image_width": 235,
+            "alignment": ""
+          }
+        },
+        "85928062-4958-4c84-acb6-326ccb5e22c3": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Read more",
+            "menu": "footer"
+          }
+        },
+        "b6a9d385-8763-4b20-902a-796c15ef09a9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2023-07-30T011129.700.png",
+            "image_width": 235,
+            "alignment": "center"
+          }
+        },
+        "5ed2a08e-b15f-4faf-bbd1-8bb289a2e16e": {
+          "type": "text",
+          "settings": {
+            "heading": "---------",
+            "subtext": "<p>A reliable companion for your travel journey!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "4cfb5ec1-d258-433e-8acd-0dea7326dd2c",
+        "85928062-4958-4c84-acb6-326ccb5e22c3",
+        "b6a9d385-8763-4b20-902a-796c15ef09a9",
+        "5ed2a08e-b15f-4faf-bbd1-8bb289a2e16e"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "newsletter_enable": false,
+        "newsletter_heading": "",
+        "enable_follow_on_shop": true,
+        "show_social": true,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": true,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 44,
+        "padding_bottom": 32
+      }
+    }
+  },
+  "order": [
+    "83c04471-584c-4080-ad2a-1776445cef92",
+    "96b47909-8107-4adc-b543-9894cbd5714b",
+    "newsletter",
+    "footer"
+  ]
+}
